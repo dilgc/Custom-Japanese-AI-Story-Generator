@@ -1,0 +1,19 @@
+# User data (do not commit)
+Qwen Language Practicer/data/user_profile.json
+
+# Auto-generated cache (regenerated on first run)
+Qwen Language Practicer/data/freq_list.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
