@@ -1,0 +1,161 @@
+{
+  "threshold_rank": 908,
+  "estimated_vocab_size": 908,
+  "ci_low": 750,
+  "ci_high": 1031,
+  "assessment_date": "2026-05-23T19:12:37.754629",
+  "assessment_responses": [
+    {
+      "rank": 5939,
+      "word": "本校",
+      "known": false
+    },
+    {
+      "rank": 5536,
+      "word": "生き生き",
+      "known": false
+    },
+    {
+      "rank": 5586,
+      "word": "作物",
+      "known": false
+    },
+    {
+      "rank": 6279,
+      "word": "銅",
+      "known": false
+    },
+    {
+      "rank": 5719,
+      "word": "きみ",
+      "known": false
+    },
+    {
+      "rank": 2665,
+      "word": "指導する",
+      "known": false
+    },
+    {
+      "rank": 2890,
+      "word": "地位",
+      "known": false
+    },
+    {
+      "rank": 3233,
+      "word": "恵まれる",
+      "known": false
+    },
+    {
+      "rank": 3477,
+      "word": "応援",
+      "known": false
+    },
+    {
+      "rank": 2718,
+      "word": "規約",
+      "known": false
+    },
+    {
+      "rank": 1052,
+      "word": "回答",
+      "known": false
+    },
+    {
+      "rank": 1848,
+      "word": "文書",
+      "known": false
+    },
+    {
+      "rank": 1958,
+      "word": "経つ",
+      "known": true
+    },
+    {
+      "rank": 1943,
+      "word": "少年",
+      "known": true
+    },
+    {
+      "rank": 1816,
+      "word": "増加",
+      "known": false
+    },
+    {
+      "rank": 432,
+      "word": "初めて",
+      "known": true
+    },
+    {
+      "rank": 1125,
+      "word": "向ける",
+      "known": true
+    },
+    {
+      "rank": 1172,
+      "word": "原発",
+      "known": false
+    },
+    {
+      "rank": 567,
+      "word": "しっかり",
+      "known": true
+    },
+    {
+      "rank": 1169,
+      "word": "最高",
+      "known": true
+    },
+    {
+      "rank": 1393,
+      "word": "損害",
+      "known": false
+    },
+    {
+      "rank": 766,
+      "word": "法人",
+      "known": false
+    },
+    {
+      "rank": 1140,
+      "word": "売る",
+      "known": true
+    },
+    {
+      "rank": 978,
+      "word": "選択",
+      "known": true
+    },
+    {
+      "rank": 1325,
+      "word": "寝る",
+      "known": true
+    },
+    {
+      "rank": 880,
+      "word": "検討する",
+      "known": false
+    },
+    {
+      "rank": 1263,
+      "word": "触れる",
+      "known": true
+    },
+    {
+      "rank": 979,
+      "word": "倍",
+      "known": false
+    },
+    {
+      "rank": 1158,
+      "word": "雰囲気",
+      "known": true
+    },
+    {
+      "rank": 662,
+      "word": "都市",
+      "known": false
+    }
+  ],
+  "stories_generated": 0,
+  "last_updated": "2026-05-23T19:12:37.754641"
+}
